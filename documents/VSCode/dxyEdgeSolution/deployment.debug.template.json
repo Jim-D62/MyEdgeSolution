@@ -7,7 +7,7 @@
         "runtime": {
           "type": "docker",
           "settings": {
-            "minDockerVersion": "v1.35",
+            "minDockerVersion": "v1.25",
             "loggingOptions": "",
             "registryCredentials": {
               "dxycontainerreg": {
